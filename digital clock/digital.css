@@ -1,0 +1,57 @@
+.container {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  background: linear-gradient(hwb(324 20% 15%),hsl(324, 51%, 75%));
+    border: 1px solid black;
+    
+    border-radius: 5px;
+  }
+  #dig{
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  background:transparent;
+  margin-left: 10%;
+  margin-right: 10%;
+    border: 1px solid transparent;
+    display: flex;
+    border-radius: 5px;
+  }
+
+#hour {
+    font-size: 60px;
+    width: 50px;
+    height: 50px;
+    color: #333;
+ 
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    
+}
+#minit{
+    font-size: 60px;
+    width: 50px;
+    height: 50px;
+    color: #333;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+
+}
+#secound{
+    font-size: 60px;
+    width: 50px;
+    height: 50px;
+    color: #333;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+
+}
+#date{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
